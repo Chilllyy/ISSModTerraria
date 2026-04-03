@@ -1,4 +1,4 @@
-displayName = ISS Phone DIsplay
+displayName = ISS Display
 author = Chilllyy
 version = 0.1
 dllReferences = Lightstreamer.DotNetStandard.Client, Lightstreamer.DotNetStandard.Client.Api, Lightstreamer.DotNetStandard.Client.Haxe, Lightstreamer.DotNetStandard.Client.Net, Microsoft.AspNetCore.JsonPatch
