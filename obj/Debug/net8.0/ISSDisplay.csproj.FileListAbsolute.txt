@@ -1,0 +1,12 @@
+/home/chilly/.local/share/Terraria/tModLoader/ModSources/ISSDisplay/bin/Debug/net8.0/ISSDisplay.deps.json
+/home/chilly/.local/share/Terraria/tModLoader/ModSources/ISSDisplay/bin/Debug/net8.0/ISSDisplay.dll
+/home/chilly/.local/share/Terraria/tModLoader/ModSources/ISSDisplay/bin/Debug/net8.0/ISSDisplay.pdb
+/home/chilly/.local/share/Terraria/tModLoader/ModSources/ISSDisplay/obj/Debug/net8.0/ISSDisplay.csproj.AssemblyReference.cache
+/home/chilly/.local/share/Terraria/tModLoader/ModSources/ISSDisplay/obj/Debug/net8.0/ISSDisplay.GeneratedMSBuildEditorConfig.editorconfig
+/home/chilly/.local/share/Terraria/tModLoader/ModSources/ISSDisplay/obj/Debug/net8.0/ISSDisplay.AssemblyInfoInputs.cache
+/home/chilly/.local/share/Terraria/tModLoader/ModSources/ISSDisplay/obj/Debug/net8.0/ISSDisplay.AssemblyInfo.cs
+/home/chilly/.local/share/Terraria/tModLoader/ModSources/ISSDisplay/obj/Debug/net8.0/ISSDisplay.csproj.CoreCompileInputs.cache
+/home/chilly/.local/share/Terraria/tModLoader/ModSources/ISSDisplay/obj/Debug/net8.0/ISSDisplay.dll
+/home/chilly/.local/share/Terraria/tModLoader/ModSources/ISSDisplay/obj/Debug/net8.0/refint/ISSDisplay.dll
+/home/chilly/.local/share/Terraria/tModLoader/ModSources/ISSDisplay/obj/Debug/net8.0/ISSDisplay.pdb
+/home/chilly/.local/share/Terraria/tModLoader/ModSources/ISSDisplay/obj/Debug/net8.0/ref/ISSDisplay.dll

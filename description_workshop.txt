@@ -1,0 +1,4 @@
+This description will show up on the steam page, check out https://steamcommunity.com/comment/Guide/formattinghelp.
+
+
+Adds a constant on screen reminder for the current level of the Urine Tank on the International Space Station, originally a Minecraft Mod I made called the ISSOnScreenDisplay 
